@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
+Dipshit
 namespace DotAnimLib {
     public class Animator {
 
